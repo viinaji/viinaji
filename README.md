@@ -10,8 +10,6 @@ and bringing ideas to life through code.
 
 ---
 
----
-
 
 <div>
   <p align="center">
