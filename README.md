@@ -39,9 +39,9 @@ and bringing ideas to life through code.
 
 ### LynxHub Repositories
 
-[![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121)](https://github.com/KindaBrazy/LynxHub)
-[![LynxHub Module Offline Container](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Offline-Container&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121)](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container)
-[![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Modules&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121)](https://github.com/KindaBrazy/LynxHub-Modules)
-[![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Guide&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121)](https://github.com/KindaBrazy/LynxHub-Module-Guide)
+[![LynxHub](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub)
+[![LynxHub Module Offline Container](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Offline-Container&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container)
+[![LynxHub Modules](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Modules&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Modules)
+[![LynxHub Module Guide](https://github-readme-stats.vercel.app/api/pin/?username=KindaBrazy&repo=LynxHub-Module-Guide&theme=github_dark&hide_border=true&title_color=0050EF&bg_color=212121&text_color=ffffff)](https://github.com/KindaBrazy/LynxHub-Module-Guide)
 
 </div>
