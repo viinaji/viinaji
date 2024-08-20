@@ -8,6 +8,8 @@ and bringing ideas to life through code.
 
 </div>
 
+---
+
 <div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KindaBrazy&hide=prs,contribs&show=discussions_started&show_icons=true&theme=midnight-purple&hide_border=true&title_color=AA00FF" alt="aaronedev's Stats" height="165">
