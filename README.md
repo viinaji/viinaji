@@ -2,19 +2,13 @@
 
 ![Header](./resources/HeaderImage.png)
 
-</div>
-
----
-
-<div align="center">
-
-### Hi there, I'm KindaBrazy 👋
-
 I'm a passionate developer focused on building robust and efficient desktop applications. I love exploring new
 technologies
 and bringing ideas to life through code.
 
 </div>
+
+---
 
 ---
 
