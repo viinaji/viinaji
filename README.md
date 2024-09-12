@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./resources/Header.png)
+![Header](./resources/header.png)
 
 I'm a passionate developer focused on building robust and efficient desktop applications. I love exploring new
 technologies
